@@ -28,4 +28,4 @@ I'll be using dvc to tack data , you can easily install it : pip install dvc
 # Model deployment 
 I'll be using flask api , install it with : pip install flask 
 here's what do looks like :
-![flask](https://github.com/your-username/your-repo/blob/main/images/logo.png)
+![flask](./flaskFirstTry.jpg)
